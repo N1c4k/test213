@@ -1,0 +1,3 @@
+Обернуть весь контент в div class= "wrapper"
+добавить точки прокрутки class = "header" class = "footer"
+при надобности изменть в popup.js scrollTO (footer и header - на свои точки прокрутки) 
